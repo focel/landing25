@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330713103993",
+    "project_id": "plantilla25-7dc89",
+    "storage_bucket": "plantilla25-7dc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330713103993:android:c7fa7180c8120a68a09ea8",
+        "android_client_info": {
+          "package_name": "com.mycompany.landing25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330713103993-tg6a832ke68c7cm8v7iip0qiqqdtfmq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaRMMRWct1bG_j2WngztIp_qDTtWI9tOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330713103993-tg6a832ke68c7cm8v7iip0qiqqdtfmq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
