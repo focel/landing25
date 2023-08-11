@@ -1,7 +1,7 @@
 # Landing25
 
 A new Flutter project.
-
+This is an example of landing page was built with flutter.
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
